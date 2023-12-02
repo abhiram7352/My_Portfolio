@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/ABHI.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm Abhiram Kumar a pre final year student pursuing B.Tech in Artificial Intelligence and Machine Learning Technocrats institute of Technology Bhopal campus to have new experiences, meet new people and learn new things. I find the idea of creating value for impacting the world through my work gratifying.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web Development",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Bussiness Development",
+  "Digital Marketing",
+  "AI Enthusiast",
+  "Graphic Design",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  " I enjoy challenges that enable me to grow. I like to find application in what is taught to me and use Pomodoro techniques to learn as quickly as possible.";
 
 const About = () => {
   return (
