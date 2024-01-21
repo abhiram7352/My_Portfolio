@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Abhiram Kumar",
-  title: "Winter Intern at Coding Ninjas",
+  title: "Ex-Intern at Coding Ninjas",
   email: "abhiramkumar8780gmail.com",
   gitHub: "abhiram7352",
   instagram: "abhi_ram7352",
